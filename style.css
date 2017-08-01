@@ -1,0 +1,39 @@
+/*Css for Youtube Downloader by henry Shedrach ZENDX*/
+
+/*css reset starts here*/
+header,footer,main,h1,h2,body {
+	margin:0px;
+	padding:0px;
+}
+.wrapper {
+	width:100%;
+	float:left;
+}
+.container {
+	width:70%;
+	margin:0 auto;
+}
+.title {
+	font-size: 40px;
+	margin:20px 0 20px 0;
+}
+header {
+	background: yellow;
+	width: 100%;
+	text-align: center;
+}
+main {
+	text-align: center;
+	width:100%;
+}
+footer {
+	text-align: center !important;
+	width:100%;
+}
+.content {
+	width:100%;
+	margin:80px 0 70px 0;
+}
+.url {
+	width:100%;
+}
